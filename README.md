@@ -3,7 +3,7 @@
 ### Hello World! 👋
 
 <div>
- h2<Hello, I am Lívia Negrini, I am 17 years old and I am from Brazil. >
+ Hello, I am Lívia Negrini, I am 17 years old and I am from Brazil
 </div>
    
 <div>
