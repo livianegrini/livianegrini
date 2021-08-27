@@ -1,4 +1,4 @@
-## 🥰🎈 Lívia Negrini 🎈🥰
+## 🥰 Lívia Negrini 🥰
 
 ### Hello World! 👋
 <div>
