@@ -4,8 +4,8 @@
 
 <div>
  Hello, I am Lívia Negrini, I am 17 years old and I am from Brazil
- #I am studying at SENAI Informática!
  
+ #I am studying at SENAI Informática!
 </div>
    
 ##
