@@ -3,9 +3,9 @@
 ### Hello World! 👋
 
 <div>
- I am Lívia Negrini, I am 18 years old and I am from Brazil.
+ I am Lívia Negrini, I am 19 years old and I am from Brazil.
  
- I am studying at SENAI Informática!
+ I am studying at SP Tech School!
 </div>
    
 ##
