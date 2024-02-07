@@ -3,11 +3,11 @@
 ### Desenvolvedora 
 
 <div>
-  • Estudante de Sistemas de Informação - São Paulo Tech School.
-  • Técnica em Desenvolvimento de Sistemas - SENAI Informática.
-  • Aberta a novas oportunidades.
-  • Sobre mim: Apaixonada por tecnologia e esportes.
-  • São Paulo, Brasil.
+  <p>• Estudante de Sistemas de Informação - São Paulo Tech School.</p> 
+  <p>• Técnica em Desenvolvimento de Sistemas - SENAI Informática.</p>
+  <p>• Aberta a novas oportunidades.</p>
+  <p>• Sobre mim: Apaixonada por tecnologia e esportes.</p>
+  <p>• São Paulo, Brasil.</p>
 </div>
    
 ## Tecnologias
