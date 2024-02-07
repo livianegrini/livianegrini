@@ -1,6 +1,6 @@
 ## Lívia Negrini
 
-### Desenvolvedora 
+### Desenvolvedora de Sistemas 
 
 <div>
   <p>• Estudante de Sistemas de Informação - São Paulo Tech School.</p> 
