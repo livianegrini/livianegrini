@@ -1,14 +1,16 @@
-## 🥰 Lívia Negrini 🥰
+## Lívia Negrini
 
-### Hello World! 👋
+### Desenvolvedora 
 
 <div>
- I am Lívia Negrini, I am 19 years old and I am from Brazil.
- 
- I am studying at SP Tech School!
+  • Estudante de Sistemas de Informação - São Paulo Tech School.
+  • Técnica em Desenvolvimento de Sistemas - SENAI Informática.
+  • Aberta a novas oportunidades.
+  • Sobre mim: Apaixonada por tecnologia e esportes.
+  • São Paulo, Brasil.
 </div>
    
-##
+## Tecnologias
 <div>
   <a href="https://github.com/livianegrini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livianegrini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,7 +27,7 @@
   <img align="center" alt="Livia-SQL" height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
 </div>
   
-  ##
+  ## Contatos
   
 <div>
   <a href="https://br.linkedin.com/in/l%C3%ADvia-negrini-421163213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
