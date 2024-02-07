@@ -10,14 +10,14 @@
   <p>• São Paulo, Brasil.</p>
 </div>
    
-## Estatísticas
+## Estatísticas 📈
 <div>
   <a href="https://github.com/livianegrini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livianegrini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livianegrini&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
-## Tecnologias
+## Tecnologias 💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Livia-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Livia-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,7 +29,7 @@
   <img align="center" alt="Livia-SQL" height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
 </div>
   
-  ## Contatos
+  ## Contatos 📌
   
 <div>
   <a href="https://br.linkedin.com/in/l%C3%ADvia-negrini-421163213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
