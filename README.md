@@ -50,7 +50,7 @@
 
   ## Projetos 📈
 <div>
- <a href="https://github.com/Mega-time-TCC-2RP" target="_blank"><img  alt="`Projeto Bots 4 RPA" height="40" width="40" src="[https://www.svgrepo.com/show/512317/github-142.svg](https://avatars.githubusercontent.com/u/102230108?s=400&u=f4231dc9bcfbcec69928a1e0129480a4bfb3aec2&v=4)" target="_blank"></a>
+ <a href="https://github.com/Mega-time-TCC-2RP" target="_blank"><img  alt="`Projeto Bots 4 RPA" height="40" width="40" src="https://media.istockphoto.com/id/1010001882/pt/vetorial/%C3%B0%C3%B0%C2%B5%C3%B1%C3%B0%C3%B1%C3%B1.jpg?s=612x612&w=0&k=20&c=XDt2tPCJ7OYQ5RsLOuRsprcd_S49S17imHZb7Vz8IPI=" target="_blank"></a>
 <p>Bots 4 RPA</p>
 </div>
 
