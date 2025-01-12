@@ -1,6 +1,7 @@
 ## Lívia Negrini
-<img align="center" alt="Inteli Logo" height="350" width="800" src="https://i.ytimg.com/vi/w2TeFrvDn34/maxresdefault.jpg">
 ### Desenvolvedora de Sistemas 
+<img align="center" alt="Inteli Logo" height="350" width="800" src="https://i.ytimg.com/vi/w2TeFrvDn34/maxresdefault.jpg">
+
 
 <div>Olá! Eu sou a Lívia Negrini, tenho 20 anos e amo tecnologia!</div>
 
