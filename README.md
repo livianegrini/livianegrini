@@ -1,5 +1,5 @@
 ## Lívia Negrini
-
+<img align="center" alt="Inteli Logo" height="40" width="40" src="https://capitaldigital.com.br/wp-content/uploads/2021/04/logo-inteli-300x134-1.png">
 ### Desenvolvedora de Sistemas 
 
 <div>Olá! Eu sou a Lívia Negrini, tenho 20 anos e amo tecnologia!</div>
@@ -28,7 +28,7 @@
   <img align="center" alt="Livia-MySQL" height="40" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
   <img align="center" alt="Livia-Trello" height="40" width="40" src="https://www.svgrepo.com/show/475688/trello-color.svg">
   <img align="center" alt="Livia-Virtual Box" height="40" width="40" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg">
-  
+  <img align="center" alt="Livia-AWS EC2" height="40" width="40" src=" https://www.svgrepo.com/show/448268/aws-ec2.svg">  
 
 </div>
 
@@ -42,6 +42,5 @@
   ## Contatos 📌
 <div>
   <a href="https://br.linkedin.com/in/l%C3%ADvia-negrini-421163213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/livia.negrini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
