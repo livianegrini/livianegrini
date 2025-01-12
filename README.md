@@ -21,7 +21,7 @@
   <img align="center" alt="Livia-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Livia-Figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   <img align="center" alt="Livia-Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="Livia-SQL Sever" height="40" width="40" src="https://www.svgrepo.com/show/369980/database-sql.svg">
+  <img align="center" alt="Livia-SQL Sever" height="40" width="40" src="https://camo.githubusercontent.com/d331dafbb73da1def0489b1ef71d862f17173dc0b9bf22374d3471467ae9179b/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3333313736302f73716c2d64617461626173652d67656e657269632e737667">
   <img align="center" alt="Livia-Kotlin" height="40" width="40" src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg">
   <img align="center" alt="Livia-Python" height="40" width="40" src="https://www.svgrepo.com/show/374016/python.svg">
   <img align="center" alt="Livia-Miro" height="40" width="40" src="https://www.svgrepo.com/show/473728/miro.svg">
