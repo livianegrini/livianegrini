@@ -23,6 +23,7 @@
   <img align="center" alt="Livia-Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="Livia-SQL" height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
   <img align="center" alt="Livia-Kotlin" height="40" width="40" src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg">
+  <img align="center" alt="Livia-Kotlin" height="40" width="40" src="https://www.svgrepo.com/show/374016/python.svg">
 </div>
 
   ## Estatísticas 📈
