@@ -48,6 +48,12 @@
 </a>
 </div>
 
+  ## Projetos 📈
+<div>
+ <a href="https://github.com/Mega-time-TCC-2RP" target="_blank"><img  alt="`Projeto Bots 4 RPA" height="40" width="40" src="[https://www.svgrepo.com/show/512317/github-142.svg](https://avatars.githubusercontent.com/u/102230108?s=400&u=f4231dc9bcfbcec69928a1e0129480a4bfb3aec2&v=4)" target="_blank"></a>
+<p>Bots 4 RPA</p>
+</div>
+
  ## Orientadora 👩
 <div>
   <p> No Inteli nós temos orientadores para nos auxiliar no começo dessa nova jornada.</p> 
