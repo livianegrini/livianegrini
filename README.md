@@ -22,7 +22,7 @@
   <img align="center" alt="Livia-Figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   <img align="center" alt="Livia-Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="Livia-SQL" height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
-  <img align="center" alt="Livia-Kotlin" height="40" width="40" src="[https://www.svgrepo.com/show/331760/kotlin-1-logo-svgrepo-com.svg](https://kotlinlang.org/api/core/kotlin-stdlib/org.w3c.dom.svg/-s-v-g-path-element/#-1939841514%2FConstructors%2F-1719377336)">
+  <img align="center" alt="Livia-Kotlin" height="40" width="40" src="https://www.svgrepo.com/svg/353980/kotlin">
 </div>
 
   ## Estatísticas 📈
