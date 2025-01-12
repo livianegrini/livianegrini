@@ -2,7 +2,7 @@
 <img align="center" alt="Inteli Logo" height="380" width="800" src="https://i.ytimg.com/vi/w2TeFrvDn34/maxresdefault.jpg">
 
 
-##Olá! Eu sou a Lívia Negrini, tenho 20 anos e amo tecnologia!
+## Olá! Eu sou a Lívia Negrini, tenho 20 anos e amo tecnologia!
 
 <div>
   <p>  • Cursando Sistemas de Informação - Inteli.</p> 
