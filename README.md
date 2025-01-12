@@ -25,7 +25,11 @@
   <img align="center" alt="Livia-Kotlin" height="40" width="40" src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg">
   <img align="center" alt="Livia-Python" height="40" width="40" src="https://www.svgrepo.com/show/374016/python.svg">
   <img align="center" alt="Livia-Miro" height="40" width="40" src="https://www.svgrepo.com/show/473728/miro.svg">
-   <img align="center" alt="Livia-MySQL" height="40" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
+  <img align="center" alt="Livia-MySQL" height="40" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
+  <img align="center" alt="Livia-Trello" height="40" width="40" src="https://www.svgrepo.com/show/475688/trello-color.svg">
+  <img align="center" alt="Livia-Virtual Box" height="40" width="40" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg">
+  
+
 </div>
 
   ## Estatísticas 📈
