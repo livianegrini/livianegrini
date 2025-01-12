@@ -1,5 +1,4 @@
-## Lívia Negrini
-### Desenvolvedora de Sistemas 
+## Lívia Negrini - Desenvolvedora de Sistemas 
 <img align="center" alt="Inteli Logo" height="350" width="800" src="https://i.ytimg.com/vi/w2TeFrvDn34/maxresdefault.jpg">
 
 
