@@ -51,7 +51,7 @@
 <div>
    <p> No Inteli nós temos orientadores para nos auxiliar no começo dessa nova jornada.</p> 
   <p> Minha orientadora é a Anna Riciopo. Ela está cursando Engenharia de Software. A Anna sempre esclarece minhas dúvidas e me ajuda.</p> 
-  <a href="https://github.com/annariciopo" target="_blank"><img src="https://www.svgrepo.com/show/512317/github-142.svg" target="_blank"></a>
+  <a href="https://github.com/annariciopo" target="_blank"><img  alt="Anna-GitHub" height="40" width="40" src="https://www.svgrepo.com/show/512317/github-142.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anna-riciopo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
     
