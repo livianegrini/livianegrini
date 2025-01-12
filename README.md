@@ -2,6 +2,8 @@
 
 ### Desenvolvedora de Sistemas 
 
+<div>Olá! Eu sou a Lívia Negrini, tenho 20 anos e amo tecnologia!</div>
+
 <div>
   <p>  • Cursando Sistemas de Informação - Inteli.</p> 
   <p>  • Técnica em Desenvolvimento de Sistemas - SENAI Informática.</p>
@@ -20,6 +22,7 @@
   <img align="center" alt="Livia-Figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   <img align="center" alt="Livia-Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="Livia-SQL" height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+  <img align="center" alt="Livia-Kotlin" height="40" width="40" src="https://www.svgrepo.com/show/331760/kotlin-1-logo-svgrepo-com.svg">
 </div>
 
   ## Estatísticas 📈
