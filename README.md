@@ -8,7 +8,7 @@
   <p>  •💻 Cursando Sistemas de Informação - Inteli.</p> 
   <p>  •📑 Técnica em Desenvolvimento de Sistemas - SENAI Informática.</p>
   <p>  •📩 Aberta a novas oportunidades.</p>
-  <p>  •🎾 Sobre mim: Apaixonada por tecnologia e esportes.</p>
+  <p>  •🎾 Apaixonada por tecnologia e esportes.</p>
   <p>  •📍São Paulo, Brasil.</p>
   <p>  •🖋️ "A tecnologia pode mudar vidas e transformar realidades!"</p>
 </div>
