@@ -1,5 +1,5 @@
 ## Lívia Negrini
-<img align="center" alt="Inteli Logo" height="40" width="40" src="https://capitaldigital.com.br/wp-content/uploads/2021/04/logo-inteli-300x134-1.png">
+<img align="center" alt="Inteli Logo" height="100" width="300" src="https://i.ytimg.com/vi/w2TeFrvDn34/maxresdefault.jpg">
 ### Desenvolvedora de Sistemas 
 
 <div>Olá! Eu sou a Lívia Negrini, tenho 20 anos e amo tecnologia!</div>
