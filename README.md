@@ -46,6 +46,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livianegrini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livianegrini&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+ ## Orientadora 👩
+<div>
+   <p> No Inteli nós temos orientadores para nos auxiliar no começo dessa nova jornada.</p> 
+  <p> Minha orientadora é a Anna Riciopo. Ela está cursando Engenharia de Software</p> 
+  <a href="https://github.com/annariciopo">
+  <a href="https://www.linkedin.com/in/anna-riciopo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
     
   ## Contatos 📌
 <div>
