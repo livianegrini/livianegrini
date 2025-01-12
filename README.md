@@ -2,14 +2,15 @@
 <img align="center" alt="Inteli Logo" height="380" width="800" src="https://i.ytimg.com/vi/w2TeFrvDn34/maxresdefault.jpg">
 
 
-## Olá! Eu sou a Lívia Negrini, tenho 20 anos e amo tecnologia!
+## Olá! Eu sou a Lívia Negrini, tenho 20 anos e amo tecnologia!👋
 
 <div>
-  <p>  • Cursando Sistemas de Informação - Inteli.</p> 
-  <p>  • Técnica em Desenvolvimento de Sistemas - SENAI Informática.</p>
-  <p>  • Aberta a novas oportunidades.</p>
-  <p>  • Sobre mim: Apaixonada por tecnologia e esportes.</p>
-  <p>  • São Paulo, Brasil.</p>
+  <p>  •💻 Cursando Sistemas de Informação - Inteli.</p> 
+  <p>  •📑 Técnica em Desenvolvimento de Sistemas - SENAI Informática.</p>
+  <p>  •📩 Aberta a novas oportunidades.</p>
+  <p>  •🎾 Sobre mim: Apaixonada por tecnologia e esportes.</p>
+  <p>  •📍São Paulo, Brasil.</p>
+  <p>  •🖋️ "A tecnologia pode mudar vidas e transformar realidades!"</p>
 </div>
     
 ## Tecnologias 💻
