@@ -50,8 +50,14 @@
 
   ## Projetos 📈
 <div>
+<div>
  <a href="https://github.com/Mega-time-TCC-2RP" target="_blank"><img  alt="`Projeto Bots 4 RPA" height="40" width="40" src="https://media.istockphoto.com/id/1010001882/pt/vetorial/%C3%B0%C3%B0%C2%B5%C3%B1%C3%B0%C3%B1%C3%B1.jpg?s=612x612&w=0&k=20&c=XDt2tPCJ7OYQ5RsLOuRsprcd_S49S17imHZb7Vz8IPI=" target="_blank"></a>
 <p>Bots 4 RPA - Uma aplicação com objetivo em automatizar processos empresariais através de Bots. O usuário pode definir as funcionalidades de seus assistentes através de um fluxo. A plataforma permite a personalização dos robôs e contém outras páginas como: dashboard da saúde dos bots, aba social, guia de navegação, conquistas, acessibilidade etc. - Projeto em grupo no SENAI para a empresa 2RP</p>
+</div>
+<div>
+ <a href="https://github.com/livianegrini/EduTech-SP2" target="_blank"><img  alt="`Projeto EduTecg" height="40" width="40" src="https://media.istockphoto.com/id/1010001882/pt/vetorial/%C3%B0%C3%B0%C2%B5%C3%B1%C3%B0%C3%B1%C3%B1.jpg?s=612x612&w=0&k=20&c=XDt2tPCJ7OYQ5RsLOuRsprcd_S49S17imHZb7Vz8IPI=" target="_blank"></a>
+<p>EduTech - Uma aplicação com objetivo de auxiliar alunos a revisarem conteúdos passados em aula e treinarem o aprendizado com questionários, inicialmente com a disciplina de Banco de Dados MySQL.- Projeto individual na SP Tech</p>
+</div>
 </div>
 
  ## Orientadora 👩
