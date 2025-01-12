@@ -62,7 +62,7 @@
  <a href="https://github.com/livianegrini/EyesAnalytic"_blank"><img  alt="`Projeto EyesAnalytic" height="40" width="40" src="https://media.istockphoto.com/id/845329690/pt/vetorial/eye-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=_JX2KkAoc06Sw-KMgHsGF0CVBv_OgzBzRF7Dkiaw3Zw="></a>
 <p>EyesAnalytic - Um sistema projetado para monitorar o hardware de servidores, com foco especial na segurança de dados através da análise de componentes dos firewalls. O objetivo principal do projeto é fornecer uma solução robusta e confiável que permita a empresas e organizações gerenciar e proteger seus recursos de TI, assegurando que seus dados estejam sempre seguros e acessíveis.</p>
 </div>
-<p>Clique nas imagens para ser dicionado ao projeto!</p>
+<p>Clique nas imagens para ser dicionado aos projetos!</p>
 </div>
 
  ## Orientadora 👩
