@@ -34,6 +34,12 @@
 
 </div>
 
+ ## Curiosidade📖
+<div>
+  <p> Acredito muito no poder transformador da educação e da tecnologia Quando eu era pequena, ensinava tudo que eu aprendia na escola para meus pais, por gostar muito dessa brincadeira e por realmente achar que poderia agregar conhecimento a eles.</p> 
+</div>
+
+
   ## Estatísticas 📈
 <div>
   <a href="https://github.com/livianegrini">
