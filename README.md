@@ -28,7 +28,7 @@
   <img align="center" alt="Livia-MySQL" height="40" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
   <img align="center" alt="Livia-Trello" height="40" width="40" src="https://www.svgrepo.com/show/475688/trello-color.svg">
   <img align="center" alt="Livia-Virtual Box" height="40" width="40" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg">
-  <img align="center" alt="Livia-AWS EC2" height="40" width="40" src=" https://www.svgrepo.com/show/448268/aws-ec2.svg">  
+  <img align="center" alt="Livia-AWS EC2" height="40" width="40" src="https://www.svgrepo.com/show/448268/aws-ec2.svg">  
 
 </div>
 
