@@ -21,9 +21,11 @@
   <img align="center" alt="Livia-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Livia-Figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   <img align="center" alt="Livia-Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="Livia-SQL" height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+  <img align="center" alt="Livia-SQL Sever" height="40" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <img align="center" alt="Livia-Kotlin" height="40" width="40" src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg">
-  <img align="center" alt="Livia-Kotlin" height="40" width="40" src="https://www.svgrepo.com/show/374016/python.svg">
+  <img align="center" alt="Livia-Python" height="40" width="40" src="https://www.svgrepo.com/show/374016/python.svg">
+  <img align="center" alt="Livia-Miro" height="40" width="40" src="https://www.svgrepo.com/show/473728/miro.svg">
+   <img align="center" alt="Livia-MySQL" height="40" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
 </div>
 
   ## Estatísticas 📈
