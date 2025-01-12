@@ -42,15 +42,19 @@
 
   ## Estatísticas 📈
 <div>
-  <a href="https://github.com/livianegrini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livianegrini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livianegrini&layout=compact&langs_count=7&theme=dark"/>
+<a href="https://github.com/livianegrini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livianegrini&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livianegrini&layout=compact&langs_count=7&theme=dark" />
+</a>
+
+
 </div>
 
  ## Orientadora 👩
 <div>
-   <p> No Inteli nós temos orientadores para nos auxiliar no começo dessa nova jornada.</p> 
-  <p> Minha orientadora é a Anna Riciopo. Ela está cursando Engenharia de Software. A Anna sempre esclarece minhas dúvidas e me ajuda.</p> 
+  <p> No Inteli nós temos orientadores para nos auxiliar no começo dessa nova jornada.</p> 
+  <p> Minha orientadora é a Anna Riciopo. Ela está cursando Engenharia de Software.</p>
+  <p> A Anna é sempre solicita e vem me ajudando muito.</p> 
   <a href="https://github.com/annariciopo" target="_blank"><img  alt="Anna-GitHub" height="40" width="40" src="https://www.svgrepo.com/show/512317/github-142.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anna-riciopo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
